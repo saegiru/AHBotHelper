@@ -1,5 +1,14 @@
 ## Interface: 30300
 ## Title: AHBot Price Helper
-## Notes: Estimates the AHBot's maximum buying price.
-## Author: Damien
-AHBotHelper.lua
+## Notes: Estimates AHBot buyer-safe prices for AzerothCore mod-ahbot and helps post auctions.
+## Author: Damien / ChatGPT refactor
+## Version: 0.4.0
+## SavedVariables: AHBotHelperDB
+
+Core.lua
+Config.lua
+PricingPanel.lua
+Tooltip.lua
+BlizzardAH.lua
+ElvUICompat.lua
+SlashCommands.lua
