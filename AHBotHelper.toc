@@ -1,0 +1,5 @@
+## Interface: 30300
+## Title: AHBot Price Helper
+## Notes: Estimates the AHBot's maximum buying price.
+## Author: Damien
+AHBotHelper.lua
